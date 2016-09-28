@@ -1,1 +1,3 @@
-Este arquivo de texto está aqui para realização de testes tão somente.
+Este arquivo de texto estÃ¡ aqui para realizaÃ§Ã£o de testes tÃ£o somente.
+
+Este Ã© um teste que estou fazneod agora
